@@ -1,0 +1,164 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 2.5rem;
+    line-height: 1.5;
+    
+}
+
+h3{
+    font-weight: bold;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+/*Title section*/
+
+#title{
+    text-align: left;
+    background-color: #28abb9;
+}
+
+.container{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:2.5rem;
+    font-weight: bold;
+    margin-right: 400px;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.download-button{
+    margin: 5% 3% 0% 0%;
+}
+
+.header{
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+/*Feature Section*/
+
+#Features{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    padding: 5%;
+}
+
+.icon{
+    color:#a20a0a;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #dd2c00;
+}
+
+/*Fashion section*/
+
+#FTT-Slides{
+    background-color: #28abb9;
+    color: #fff;
+}
+
+.ftt-image{
+    padding: 2% 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-inner{
+    padding: 5% 15%;
+}
+
+/*Press Section*/
+
+#press{
+    padding: 3%;
+
+}
+
+.press-logo{
+    width: 15%;
+    margin: 10px 20px 50px;
+}
+
+
+/*Pricing section*/
+
+#pricing{
+    padding: 100px;
+}
+
+.pricing_header{
+    background-color:#28abb9;
+    color: #fff;
+    padding: 30px 2px 2px;
+}
+
+.row{
+    padding-left: 6%;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+.card_button:hover{
+    background-color:#a20a0a;
+}
+
+
+/*CTA section*/
+
+#cta{
+    background-color: #28abb9;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+.cta_heading{
+    font-size: 3.5rem;
+}
+
+/*Footer section*/
+
+#footer{
+    padding: 7% 15%;
+}
+
+.contact-icon{
+    margin: 20px 10px;
+}
+
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+    .navbar-brand{
+        margin-right: 0px;
+    }
+    
+}
+
